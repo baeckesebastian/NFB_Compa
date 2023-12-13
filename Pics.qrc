@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="Fixation">Pics/Fixation.png</file>
+        <file alias="Neutral">Pics/Neutral.png</file>
+        <file alias="N1">Pics/NN01.png</file>
+        <file alias="N2">Pics/NN02.png</file>
+        <file alias="N3">Pics/NN03.png</file>
+        <file alias="N4">Pics/NN04.png</file>
+        <file alias="N5">Pics/NN05.png</file>
+        <file alias="N6">Pics/NN06.png</file>
+        <file alias="N7">Pics/NN07.png</file>
+        <file alias="N8">Pics/NN08.png</file>
+        <file alias="P1">Pics/P01.png</file>
+        <file alias="P2">Pics/P02.png</file>
+        <file alias="P3">Pics/P03.png</file>
+        <file alias="P4">Pics/P04.png</file>
+        <file alias="P5">Pics/P05.png</file>
+        <file alias="P6">Pics/P06.png</file>
+        <file alias="P7">Pics/P07.png</file>
+        <file alias="P8">Pics/P08.png</file>
+        <file alias="SM0">Pics/SM0.png</file>
+        <file alias="SM1">Pics/SM1.png</file>
+        <file alias="SM2">Pics/SM2.png</file>
+        <file alias="SM3">Pics/SM3.png</file>
+    </qresource>
+</RCC>
